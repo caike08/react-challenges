@@ -1,4 +1,10 @@
-# React + TypeScript + Vite
+# Studying basic comcepts of React
+
+This project uses:
+- React 
+- Bun (alternative to Node.JS)
+- Vite
+- Tailwind
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
